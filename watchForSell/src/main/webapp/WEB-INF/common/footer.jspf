@@ -1,0 +1,14 @@
+       <footer>
+
+        <div>
+        <ul>
+        <hr>
+			<li><a href="/logout.do">Logout</a></li>
+			</hr>
+	</ul>
+        </div>
+
+        </footer>
+</body>
+
+</html>
